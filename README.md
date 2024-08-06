@@ -8,10 +8,19 @@ A user can:
 - Register basic information about their crops (crop name, sowing date, sowing site, plot size, number of plants per square meter).
 - Add relevant events, for example whether there was any plague or disease that affected any crops, or a brief description on the growth of the plants.
 - Check weather forecasts that may be important for the development of their crops, like any drowghts or heavy rains. <b><i>(This of course has its limitations since the version of the api used is free).</i></b>
-- Schedule tasks and events (i.e. crop spraying, fertilization, irrigation)
+- Schedule tasks (i.e. crop spraying, fertilization, irrigation)
 - Get reports about their crops, these reports consist of:
   - Basic crop info (crop name, sowing date, sowing site, plot size, number of plants per square meter).
-  - Relevant events
+  - Relevant events: A list of registered events (i.e pests, diseases, growth, etc), a description and date of each event.
+
+    <b>For example:</b>
+
+    - 15/03/2024: Worm infestation detected on Plot 1.
+    - 25/03/2024: First signs of growth observed.
+    - 10/04/2024: Mild fungal disease detected and treated.
+    
+  - Scheduled Tasks: 
+  - 
 
 <h2>Technologies</h2>
 
