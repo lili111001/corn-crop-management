@@ -1,8 +1,29 @@
-# Corn Crop Management App
-As the tittle says, a crop management app, for now it's focused on corn, but functionalities to manage other types of crops can be added (scalable)
+# 👨‍🌾 Corn Crop Management App 🌽
+This is a full stack web app, as the tittle says, a crop management app, for now it's focused on corn but functionalities to manage other types of crops can be added (scalable).
+
+<h2>Functionalities</h2>
+A user can:
+
+- Create, log in and manage their acount.
+- Register basic information about their crops (crop name, sowing date, sowing site, plot size, number of plants per square meter).
+- Add relevant events, for example whether there was any plague or disease that affected any crops, or a brief description on the growth of the plants.
+- Check weather forecasts that may be important for the development of their crops, like any drowghts or heavy rains. <b><i>(This of course has its limitations since the version of the api used is free).</i></b>
+- Schedule tasks and events (i.e. crop spraying, fertilization, irrigation)
+- Get reports about their crops, these reports consist of:
+  - Basic crop info (crop name, sowing date, sowing site, plot size, number of plants per square meter).
+  - Relevant events
 
 <h2>Technologies</h2>
 
-- <b>Back: Springboot,</b> <i>since spring framework provides architecture scalability, for now this app is a monolith, but depending on the demand of resources, it could evolve into a microservice architecture.</i> 
-- Front: Vuejs
-- Database: PostgreSQL
+- <b>Back: Springboot:</b> <i>since spring framework provides architecture scalability, for now this app is a monolith, but depending on the demand of resources, it could evolve into a microservices architecture.</i> 
+- <b>Front: Vuejs </b>
+- <b>Database: PostgreSQL</b>
+
+<h2>System Diagrams</h2>
+
+Following the c4 model, the next diagrams are usefull to understand how the system works
+
+- <b>System Context Diagram:</b>
+- 
+
+
