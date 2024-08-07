@@ -28,7 +28,6 @@ A user can:
     - 30/04/2024: Fertilization programmed.
   - Weather conditions: Relevant weather forecasts
   - Performance analisis: Comparison with previous crops or historical averages
-
 <h2>Technologies</h2>
 
 - <b>Back: Springboot:</b> <i>since spring framework provides architecture scalability, for now this app is a monolith, but depending on the demand of resources, it could evolve into a microservices architecture.</i> 
@@ -40,6 +39,10 @@ A user can:
 Following the c4 model, the next diagrams are usefull to understand how the system works
 
 - <b>System Context Diagram:</b>
+
+![System Context Diagram](https://github.com/user-attachments/assets/fcf9d48a-31bf-4715-af19-5bc2d3f83fcf)
+
+
 - 
 
 
