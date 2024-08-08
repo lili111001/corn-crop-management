@@ -35,8 +35,7 @@ A user can:
 - <b>Database: PostgreSQL</b>
 
 <h2>System Diagrams</h2>
-
-Following the c4 model, the next diagrams are usefull to understand how the system works
+The following are based on the c4 model, to get a better understanding of this project.
 
 - <b>System Context Diagram:</b>
 
