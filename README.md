@@ -45,8 +45,6 @@ The following are based on the c4 model, to get a better understanding of this p
 
 ![CornManagement-Container Diagram drawio](https://github.com/user-attachments/assets/49adb377-b246-49ae-bb85-691b6e7af8ba)
 
-
-
 - 
 
 
