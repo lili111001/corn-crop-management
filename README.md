@@ -39,7 +39,7 @@ The following are based on the c4 model, to get a better understanding of this p
 
 - <b>System Context Diagram:</b>
 
-![System Context Diagram](https://github.com/user-attachments/assets/0575923e-3b8e-4a5e-8588-825c33232efb)
+![CornManagement-System Context Diagram](https://github.com/user-attachments/assets/0575923e-3b8e-4a5e-8588-825c33232efb)
 
 - <b>Container Diagram:</b>
 
@@ -47,6 +47,7 @@ The following are based on the c4 model, to get a better understanding of this p
 
 - <b>Component Diagram:</b>
 
+![CornManagement-Component Diagram](https://github.com/user-attachments/assets/61cdad46-e6b8-4241-a512-41299010b04d)
 
 
 
